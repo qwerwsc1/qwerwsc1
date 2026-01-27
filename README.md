@@ -1,5 +1,5 @@
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<!--Replace <username> with your own GitHub username.-->
+https://pixel-profile.vercel.app/api/github-stats?username=qwerwsc1
 <!--
 **qwerwsc1/qwerwsc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
