@@ -4,7 +4,6 @@
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=qwerwsc1&theme=fuji">
 </picture>
 </div><!-- -->
-**qwerwsc1/qwerwsc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qwerwsc1/qwerwsc1/output/github-stats.png">
