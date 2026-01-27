@@ -1,6 +1,9 @@
 <!--Replace <username> with your own GitHub username.-->
-https://pixel-profile.vercel.app/api/github-stats?username=qwerwsc1
-<!--
+<div align="center">
+<picture decoding="async" loading="lazy">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=qwerwsc1&theme=fuji">
+</picture>
+</div><!--
 **qwerwsc1/qwerwsc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
