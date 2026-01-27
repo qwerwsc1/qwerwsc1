@@ -22,11 +22,11 @@ jobs:
 
     steps:
       - name: generate github stats card
-        uses: LuciNyan/pixel-profile/action@main
+        uses: qwerwsc1/pixel-profile/action@main
         with:
           outputs: |
-            dist/github-stats?username=LuciNyan&screen_effect=false&theme=fuji&dithering=true&hide=avatar
-            dist/github-stats-dark?username=LuciNyan&theme=crt
+            dist/github-stats?username=qwerwsc1&screen_effect=false&theme=fuji&dithering=true&hide=avatar
+            dist/github-stats-dark?username=qwerwsc1&theme=crt
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
